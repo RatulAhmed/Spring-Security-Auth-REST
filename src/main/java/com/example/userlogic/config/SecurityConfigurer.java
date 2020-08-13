@@ -1,4 +1,4 @@
-package com.example.userlogic;
+package com.example.userlogic.config;
 
 import com.example.userlogic.models.filters.JwtRequestFilters;
 import com.example.userlogic.services.MyUserDetailsService;

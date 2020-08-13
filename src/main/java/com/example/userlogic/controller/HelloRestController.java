@@ -1,4 +1,4 @@
-package com.example.userlogic;
+package com.example.userlogic.controller;
 
 import com.example.userlogic.models.AuthenticationRequest;
 import com.example.userlogic.models.AuthenticationResponse;
